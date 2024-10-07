@@ -79,8 +79,8 @@ const Navbar = () => {
             <Image
               src='https://inventorymanagements3d.s3.amazonaws.com/profile.jpg'
               alt='Profile'
-              width={50}
-              height={50}
+              width={35}
+              height={35}
               className='rounded-full h-full object-cover'
             />
             <span className='font-semibold'>Resky Indrawan</span>
